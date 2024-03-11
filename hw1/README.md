@@ -13,7 +13,6 @@
 * make menuconfig
 * make oldconfig
 * make -j $(nproc)
-* make -j32
 * make modules_install
 * make install
 
