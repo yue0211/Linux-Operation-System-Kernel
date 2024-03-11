@@ -16,11 +16,5 @@
 * make -j32
 * make modules_install
 * make install
-update-grub
-####/etc/default/grub
-##
-#GRUB_DEFAULT=0
-#GRUB_HIDDEN_TIMEOUT=0
-#GRUB_HIDDEN_TIMEOUT_QUIET=true
-
+![image](https://github.com/yue0211/Linux-Operation-System-Kernel/assets/82385589/4c3b3340-69a4-4f67-bce6-25d423b51432)
 * **家目錄** 會有 3.19 的 kernel source code.
