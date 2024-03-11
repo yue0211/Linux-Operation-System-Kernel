@@ -16,3 +16,4 @@
 * make -j32
 * make modules_install
 * make install
+* **家目錄** 會有 3.19 的 kernel source code.
