@@ -1,0 +1,4 @@
+dmesg 的 輸出指令 :
+
+dmesg | awk '{ system("echo -n \"`date +\"%b %d %H:%M:%S\"`\""); print " ubuntu kernel: " $0 }' > process.txt 
+
