@@ -7,8 +7,11 @@
 * https://old-releases.ubuntu.com/releases/14.04.0/ubuntu-14.04-desktop-amd64.iso
 
 # Command
-* git clone git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git
-* git reset --hard v3.19
+* 下載所有版本的 kernel source code
+  * git clone git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git
+  * git reset --hard v3.19
+* 下載對應版本的 kernel source code
+  * (連結)[https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/refs/?h=v3.19 ]
 * make config
 * make menuconfig
 * make oldconfig
