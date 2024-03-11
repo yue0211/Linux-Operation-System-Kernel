@@ -11,7 +11,7 @@
   * git clone git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git
   * git reset --hard v3.19
 * 下載對應版本的 kernel source code
-  * (連結)[https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/refs/?h=v3.19 ]
+  * [連結](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/refs/?h=v3.19)
 * make config
 * make menuconfig
 * make oldconfig
