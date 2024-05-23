@@ -21,3 +21,5 @@
 # /mnt 下的檔案結構
 ![image](https://github.com/yue0211/Linux-Operation-System-Kernel/assets/82385589/78d6ee8f-3c20-487a-9d67-196249a798d2)
 
+# 補充
+* 將 myfs module romve 前，要先執行 umount /mnt，然後確認 lsmod | grep myfs ，使用個數是不是變成 0，變成 0 才能 remove
