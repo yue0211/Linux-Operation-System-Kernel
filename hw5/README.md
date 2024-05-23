@@ -17,7 +17,7 @@
 * cat /mnt/output/sub
 
 # /mnt 下的檔案結構
----
+
 /--+ input (dir)
    |   |
    |   +-- a (file)
